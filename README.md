@@ -18,7 +18,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 `php artisan serve`
 
-## API Requests
+## About My Project
+
+- PHP Language
+- Laravel Framework
+- Composer
+- MySQL Database
+
+### API Requests:
 
 ![Alt text](resources/images/insomnia.png?raw=true "API Requests")
 
